@@ -19,11 +19,21 @@ Before you begin, ensure you have the following:
 
 ## 🚀 Installation & Setup
 
-### 1. Clone or Download the Repository
-Download the project files to your local machine and navigate into the project folder:
+You can download the project using either Git (Method 1) or directly from your browser without Git (Method 2).
+
+### Method 1: Using Git (Recommended)
+Open your terminal or command prompt and run the following commands:
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/xsharmas/Brainhealer_bot.git
+cd Brainhealer_bot
+```
+
+### Method 2: Without Git (Download ZIP)
+1. Go to the project repository page: [https://github.com/xsharmas/Brainhealer_bot](https://github.com/xsharmas/Brainhealer_bot)
+2. Click on the green **<> Code** button.
+3. Select **Download ZIP**.
+4. Extract the downloaded ZIP file to your preferred location.
+5. Open your terminal or command prompt and navigate (`cd`) into the extracted folder.
 ```
 *(If you downloaded the ZIP file directly from GitHub, extract it and open your terminal in that folder).*
 
