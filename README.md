@@ -34,6 +34,7 @@ cd Brainhealer_bot
 3. Select **Download ZIP**.
 4. Extract the downloaded ZIP file to your preferred location.
 5. Open your terminal or command prompt and navigate (`cd`) into the extracted folder.
+### Method 3: Copy each file and create folder in your IDE.(Then install requirements.txt and run app.py)
 ```
 *(If you downloaded the ZIP file directly from GitHub, extract it and open your terminal in that folder).*
 
@@ -42,7 +43,9 @@ Install the required Python packages using the provided `requirements.txt` file:
 ```bash
 pip install -r requirements.txt
 ```
+### Method 3: Copy each file and create folder in your IDE.(Then install requirements.txt and run app.py)
 
+  
 ### 3. Configure Environment Variables (API Keys)
 You need to provide your own API keys to run this bot. **Never share your `.env` file or commit it to GitHub.**
 
