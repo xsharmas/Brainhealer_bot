@@ -43,7 +43,6 @@ Install the required Python packages using the provided `requirements.txt` file:
 ```bash
 pip install -r requirements.txt
 ```
-### Method 3: Copy each file and create folder in your IDE.(Then install requirements.txt and run app.py)
 
   
 ### 3. Configure Environment Variables (API Keys)
